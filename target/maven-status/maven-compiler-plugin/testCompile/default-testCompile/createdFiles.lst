@@ -1,0 +1,7 @@
+br/com/bossawebsolutions/simpleproductsregister/service/TokenServiceTest.class
+br/com/bossawebsolutions/simpleproductsregister/controller/CategoryControllerTest.class
+br/com/bossawebsolutions/simpleproductsregister/controller/ProductControllerTest.class
+br/com/bossawebsolutions/simpleproductsregister/service/CategoryServiceTest.class
+br/com/bossawebsolutions/simpleproductsregister/service/ProductServiceTest.class
+br/com/bossawebsolutions/simpleproductsregister/SimpleProductsRegisterTests.class
+br/com/bossawebsolutions/simpleproductsregister/controller/AuthControllerTest.class

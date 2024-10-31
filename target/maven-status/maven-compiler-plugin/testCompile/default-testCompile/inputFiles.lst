@@ -1,0 +1,7 @@
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/test/java/br/com/bossawebsolutions/simpleproductsregister/SimpleProductsRegisterTests.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/test/java/br/com/bossawebsolutions/simpleproductsregister/controller/AuthControllerTest.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/test/java/br/com/bossawebsolutions/simpleproductsregister/controller/CategoryControllerTest.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/test/java/br/com/bossawebsolutions/simpleproductsregister/controller/ProductControllerTest.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/test/java/br/com/bossawebsolutions/simpleproductsregister/service/CategoryServiceTest.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/test/java/br/com/bossawebsolutions/simpleproductsregister/service/ProductServiceTest.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/test/java/br/com/bossawebsolutions/simpleproductsregister/service/TokenServiceTest.java

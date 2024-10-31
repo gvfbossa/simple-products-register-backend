@@ -1,0 +1,15 @@
+br/com/bossawebsolutions/simpleproductsregister/service/CategoryService.class
+br/com/bossawebsolutions/simpleproductsregister/service/ProductService.class
+br/com/bossawebsolutions/simpleproductsregister/service/TokenService.class
+br/com/bossawebsolutions/simpleproductsregister/config/CorsConfig.class
+br/com/bossawebsolutions/simpleproductsregister/repository/CategoryRepository.class
+br/com/bossawebsolutions/simpleproductsregister/controller/CategoryController.class
+br/com/bossawebsolutions/simpleproductsregister/model/Product.class
+br/com/bossawebsolutions/simpleproductsregister/repository/ProductRepository.class
+br/com/bossawebsolutions/simpleproductsregister/model/Category.class
+br/com/bossawebsolutions/simpleproductsregister/config/DataLoader.class
+br/com/bossawebsolutions/simpleproductsregister/SimpleProductsRegister.class
+br/com/bossawebsolutions/simpleproductsregister/config/RSAKeyPairGenerator.class
+br/com/bossawebsolutions/simpleproductsregister/config/SecurityConfig.class
+br/com/bossawebsolutions/simpleproductsregister/controller/ProductController.class
+br/com/bossawebsolutions/simpleproductsregister/controller/AuthController.class

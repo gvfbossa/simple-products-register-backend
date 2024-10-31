@@ -1,0 +1,15 @@
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/SimpleProductsRegister.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/config/CorsConfig.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/config/DataLoader.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/config/RSAKeyPairGenerator.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/config/SecurityConfig.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/controller/AuthController.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/controller/CategoryController.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/controller/ProductController.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/model/Category.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/model/Product.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/repository/CategoryRepository.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/repository/ProductRepository.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/service/CategoryService.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/service/ProductService.java
+/home/gvfbossa/Bossa Web Solutions/workspace/backend/simple-products-register-backend/src/main/java/br/com/bossawebsolutions/simpleproductsregister/service/TokenService.java
